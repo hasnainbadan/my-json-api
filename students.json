@@ -1,0 +1,363 @@
+
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "address": {
+      "street": "12 MG Road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400001"
+    },
+    "course": "Full Stack Java Development",
+    "contact": "+91-9876500001",
+    "img": "https://i.pravatar.cc/150?img=11",
+    "age": 22,
+    "gender": "Male",
+    "enrollmentDate": "2026-01-15",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Priya Patel",
+    "email": "priya.patel@example.com",
+    "address": {
+      "street": "24 Station Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411001"
+    },
+    "course": "React JS Development",
+    "contact": "+91-9876500002",
+    "img": "https://i.pravatar.cc/150?img=47",
+    "age": 21,
+    "gender": "Female",
+    "enrollmentDate": "2026-01-18",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Verma",
+    "email": "rahul.verma@example.com",
+    "address": {
+      "street": "8 Civil Lines",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "pincode": "440001"
+    },
+    "course": "Python Programming",
+    "contact": "+91-9876500003",
+    "img": "https://i.pravatar.cc/150?img=12",
+    "age": 23,
+    "gender": "Male",
+    "enrollmentDate": "2026-02-01",
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Desai",
+    "email": "sneha.desai@example.com",
+    "address": {
+      "street": "15 FC Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411004"
+    },
+    "course": "UI/UX Design",
+    "contact": "+91-9876500004",
+    "img": "https://i.pravatar.cc/150?img=44",
+    "age": 22,
+    "gender": "Female",
+    "enrollmentDate": "2026-02-05",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "name": "Aditya Kumar",
+    "email": "aditya.kumar@example.com",
+    "address": {
+      "street": "32 Link Road",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "pincode": "422001"
+    },
+    "course": "Data Structures and Algorithms",
+    "contact": "+91-9876500005",
+    "img": "https://i.pravatar.cc/150?img=13",
+    "age": 24,
+    "gender": "Male",
+    "enrollmentDate": "2026-02-10",
+    "status": "Active"
+  },
+  {
+    "id": 6,
+    "name": "Ananya Singh",
+    "email": "ananya.singh@example.com",
+    "address": {
+      "street": "7 Park Street",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "pincode": "400601"
+    },
+    "course": "HTML and CSS Masterclass",
+    "contact": "+91-9876500006",
+    "img": "https://i.pravatar.cc/150?img=48",
+    "age": 20,
+    "gender": "Female",
+    "enrollmentDate": "2026-02-12",
+    "status": "Active"
+  },
+  {
+    "id": 7,
+    "name": "Vikram Joshi",
+    "email": "vikram.joshi@example.com",
+    "address": {
+      "street": "19 College Road",
+      "city": "Kolhapur",
+      "state": "Maharashtra",
+      "pincode": "416003"
+    },
+    "course": "Node.js and Express",
+    "contact": "+91-9876500007",
+    "img": "https://i.pravatar.cc/150?img=14",
+    "age": 25,
+    "gender": "Male",
+    "enrollmentDate": "2026-02-15",
+    "status": "Active"
+  },
+  {
+    "id": 8,
+    "name": "Kavya Nair",
+    "email": "kavya.nair@example.com",
+    "address": {
+      "street": "5 Marine Drive",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400002"
+    },
+    "course": "Digital Marketing",
+    "contact": "+91-9876500008",
+    "img": "https://i.pravatar.cc/150?img=45",
+    "age": 21,
+    "gender": "Female",
+    "enrollmentDate": "2026-02-18",
+    "status": "Active"
+  },
+  {
+    "id": 9,
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@example.com",
+    "address": {
+      "street": "41 Main Road",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "pincode": "431001"
+    },
+    "course": "SQL and Database Management",
+    "contact": "+91-9876500009",
+    "img": "https://i.pravatar.cc/150?img=15",
+    "age": 23,
+    "gender": "Male",
+    "enrollmentDate": "2026-02-20",
+    "status": "Active"
+  },
+  {
+    "id": 10,
+    "name": "Isha Gupta",
+    "email": "isha.gupta@example.com",
+    "address": {
+      "street": "16 Garden Road",
+      "city": "Solapur",
+      "state": "Maharashtra",
+      "pincode": "413001"
+    },
+    "course": "Java Programming",
+    "contact": "+91-9876500010",
+    "img": "https://i.pravatar.cc/150?img=49",
+    "age": 22,
+    "gender": "Female",
+    "enrollmentDate": "2026-03-01",
+    "status": "Active"
+  },
+  {
+    "id": 11,
+    "name": "Arjun Rao",
+    "email": "arjun.rao@example.com",
+    "address": {
+      "street": "22 Lake View",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560001"
+    },
+    "course": "Spring Boot Development",
+    "contact": "+91-9876500011",
+    "img": "https://i.pravatar.cc/150?img=16",
+    "age": 24,
+    "gender": "Male",
+    "enrollmentDate": "2026-03-03",
+    "status": "Active"
+  },
+  {
+    "id": 12,
+    "name": "Meera Shah",
+    "email": "meera.shah@example.com",
+    "address": {
+      "street": "9 River Road",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "pincode": "380001"
+    },
+    "course": "React JS Development",
+    "contact": "+91-9876500012",
+    "img": "https://i.pravatar.cc/150?img=46",
+    "age": 20,
+    "gender": "Female",
+    "enrollmentDate": "2026-03-05",
+    "status": "Active"
+  },
+  {
+    "id": 13,
+    "name": "Karan Malhotra",
+    "email": "karan.malhotra@example.com",
+    "address": {
+      "street": "14 Hill Road",
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "110001"
+    },
+    "course": "Cybersecurity Fundamentals",
+    "contact": "+91-9876500013",
+    "img": "https://i.pravatar.cc/150?img=17",
+    "age": 25,
+    "gender": "Male",
+    "enrollmentDate": "2026-03-08",
+    "status": "Active"
+  },
+  {
+    "id": 14,
+    "name": "Pooja Kulkarni",
+    "email": "pooja.kulkarni@example.com",
+    "address": {
+      "street": "27 Temple Road",
+      "city": "Satara",
+      "state": "Maharashtra",
+      "pincode": "415001"
+    },
+    "course": "Bootstrap 5 Complete Course",
+    "contact": "+91-9876500014",
+    "img": "https://i.pravatar.cc/150?img=50",
+    "age": 21,
+    "gender": "Female",
+    "enrollmentDate": "2026-03-10",
+    "status": "Active"
+  },
+  {
+    "id": 15,
+    "name": "Siddharth Jain",
+    "email": "siddharth.jain@example.com",
+    "address": {
+      "street": "33 Market Road",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "pincode": "302001"
+    },
+    "course": "Machine Learning",
+    "contact": "+91-9876500015",
+    "img": "https://i.pravatar.cc/150?img=18",
+    "age": 24,
+    "gender": "Male",
+    "enrollmentDate": "2026-03-12",
+    "status": "Active"
+  },
+  {
+    "id": 16,
+    "name": "Nisha Patil",
+    "email": "nisha.patil@example.com",
+    "address": {
+      "street": "11 Station Road",
+      "city": "Khopoli",
+      "state": "Maharashtra",
+      "pincode": "410203"
+    },
+    "course": "Full Stack Java Development",
+    "contact": "+91-9876500016",
+    "img": "https://i.pravatar.cc/150?img=51",
+    "age": 22,
+    "gender": "Female",
+    "enrollmentDate": "2026-03-15",
+    "status": "Active"
+  },
+  {
+    "id": 17,
+    "name": "Dev Patel",
+    "email": "dev.patel@example.com",
+    "address": {
+      "street": "6 Sunrise Avenue",
+      "city": "Surat",
+      "state": "Gujarat",
+      "pincode": "395003"
+    },
+    "course": "Python Programming",
+    "contact": "+91-9876500017",
+    "img": "https://i.pravatar.cc/150?img=19",
+    "age": 23,
+    "gender": "Male",
+    "enrollmentDate": "2026-03-17",
+    "status": "Inactive"
+  },
+  {
+    "id": 18,
+    "name": "Simran Kaur",
+    "email": "simran.kaur@example.com",
+    "address": {
+      "street": "18 Green Park",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "pincode": "160017"
+    },
+    "course": "UI/UX Design",
+    "contact": "+91-9876500018",
+    "img": "https://i.pravatar.cc/150?img=52",
+    "age": 22,
+    "gender": "Female",
+    "enrollmentDate": "2026-03-20",
+    "status": "Active"
+  },
+  {
+    "id": 19,
+    "name": "Manish Yadav",
+    "email": "manish.yadav@example.com",
+    "address": {
+      "street": "29 Central Road",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "452001"
+    },
+    "course": "Data Structures and Algorithms",
+    "contact": "+91-9876500019",
+    "img": "https://i.pravatar.cc/150?img=20",
+    "age": 24,
+    "gender": "Male",
+    "enrollmentDate": "2026-03-22",
+    "status": "Active"
+  },
+  {
+    "id": 20,
+    "name": "Tanya Fernandes",
+    "email": "tanya.fernandes@example.com",
+    "address": {
+      "street": "3 Church Street",
+      "city": "Panaji",
+      "state": "Goa",
+      "pincode": "403001"
+    },
+    "course": "Digital Marketing",
+    "contact": "+91-9876500020",
+    "img": "https://i.pravatar.cc/150?img=53",
+    "age": 21,
+    "gender": "Female",
+    "enrollmentDate": "2026-03-25",
+    "status": "Active"
+  }
+]
